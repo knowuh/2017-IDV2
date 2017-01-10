@@ -2,7 +2,11 @@
 
 ## Materials:
 * Pencils, index cards.
-* PDF Handout: [Mu Puzzle](./mu-puzzle-geb.pdf) This reading and challenge should give us a machine-centric view of symbol (text?) processing.
+* PDF Handout: Mu Puzzle. This reading and challenge should give us a machine-centric view of symbol (text?) processing.
+* PDF Handout: TextLua. This paper contains some math. Read for intent.
+
+## IMPORTANT NOTE:
+This class will be meeting regularly from 5:45 to 8:45. I will be available earlier for office hours.
 
 ## Intro:
 We are here to get to know each other, review the syllabus, talk about our goals, build a good culture, and start work. Today we will be defining research topics for the next three weeks. I also hope to learn your names.

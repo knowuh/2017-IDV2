@@ -2,7 +2,7 @@
 ## NEU ARTE 335910.01 – Sring 2017
 #### [Noah Paessel](mailto:n.paessel@neu.edu) @ 399 [Ryder Hall](https://www.northeastern.edu/campusmap/map/qad7.html)
 ##### Tuesdays 5:45pm - 8:45pm
-##### [Slack](https://2017-IDV.slack.com) | [signup](https://2017-idv2.slack.com/shared_invite/MTI2MTYxMTUwNTUxLTE0ODQwNDQ4NjQtYjYwMmVlMWEwZA)
+##### [Slack](https://2017-IDV.slack.com) | [signup](https://2017-idv2.slack.com/signup)
 
 ### Overview
 A child spends more than ten-thousand-hours learning to transcode abstract symbols to meaning. As adults, we practice literacy naturally, intuitively, unconsciously. Much of the human experience is archived as text. Recent advancements in large-scale data processing and machine learning have given us tools to visually explore the legacy of human literacy in unanticipated ways.
@@ -27,7 +27,7 @@ The grading system follows the [University Policies](http://www.northeastern.edu
 * __10% peer evaluation:__ Peer evaluation is meaningful. Students will evaluate each others work. We will account for this evaluation in the grading process.
 
 ##### Integrity
-Students will abide by Northeastern University’s [Academic Integrity Policy](http://www.northeastern.edu/osccr/academicintegrity/).
+Students will abide by Northeastern University’s [Academic Integrity Policy](http://www.northeastern.edu/osccr/academic-integrity-policy/).
 
 ##### Attendance
 Students are expected to attend all classes. Absence for health or personal reasons should be communicated to the lecturer. Tardiness and unexcused absences will impact student grades.

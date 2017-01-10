@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+node_modules/
+*_config.json
+04.key
+06.key

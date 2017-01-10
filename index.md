@@ -35,7 +35,7 @@ Students are expected to attend all classes. Absence for health or personal reas
 ### Schedule:
 (42 hours)
 
-* `01-10 - 01` : Introductions
+* [`01-10 - 01`](./01/) : Introductions
 * `01-17 - 02` : Context A
 * `01-24 – 03` : Context B
 * `01-31 – 04` : Context C
@@ -43,10 +43,10 @@ Students are expected to attend all classes. Absence for health or personal reas
 * `02-14 - 06` : Proposals B
 * `02-21 – 07` : Work
 * `02-28 – 08` : Midterm posters
-* `03-14 – 09`
-* `03-21 – 10`
-* `03-28 – 11`
-* `04-04 – 12`
-* `04-11 – 13`
+* `03-14 – 09` : Work / TBD
+* `03-21 – 10` : Work / TBD
+* `03-28 – 11` : Work / TBD
+* `04-04 – 12` : Work / TBD
+* `04-11 – 13` : Work / TBD
 * `04-18 – 14` Final Presentations
 

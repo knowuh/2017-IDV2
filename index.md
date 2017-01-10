@@ -1,5 +1,5 @@
 # Information Design Studio 2
-## NEU ARTE 335910.01 – Sring 2017
+## NEU ARTE 335910.01 – Spring 2017
 #### [Noah Paessel](mailto:n.paessel@neu.edu) @ 399 [Ryder Hall](https://www.northeastern.edu/campusmap/map/qad7.html)
 ##### Tuesdays 5:45pm - 8:45pm
 ##### [Slack](https://2017-IDV.slack.com) | [signup](https://2017-idv2.slack.com/signup)

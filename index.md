@@ -36,8 +36,8 @@ Students are expected to attend all classes. Absence for health or personal reas
 (42 hours)
 
 * [`01-10 - 01`](./01/) : Introductions
-* `01-17 - 02` : Context A
-* `01-24 – 03` : Context B
+* [`01-17 - 02`](./02/) : Interpretations of Text
+* [`01-24 – 03`](./03/) : Historic text visualization approaches
 * `01-31 – 04` : Context C
 * `02-07 – 05` : Proposals A
 * `02-14 - 06` : Proposals B

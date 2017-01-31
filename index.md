@@ -38,9 +38,9 @@ Students are expected to attend all classes. Absence for health or personal reas
 * [`01-10 - 01`](./01/) : Introductions
 * [`01-17 - 02`](./02/) : Interpretations of Text
 * [`01-24 – 03`](./03/) : Historic text visualization approaches
-* `01-31 – 04` : Context C
-* `02-07 – 05` : Proposals A
-* `02-14 - 06` : Proposals B
+* [`01-31 – 04`](./04/) : Proposal sketches due
+* `02-07 – 05` : First Proposal briefs
+* `02-14 - 06` : 
 * `02-21 – 07` : Work
 * `02-28 – 08` : Midterm posters
 * `03-14 – 09` : Work / TBD

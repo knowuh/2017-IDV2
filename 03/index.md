@@ -1,4 +1,4 @@
-# Class 02 – 2017-01-17:
+# Class 03 – 2017-01-17:
 
 ## Review people cards
 

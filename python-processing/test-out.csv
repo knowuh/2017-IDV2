@@ -1,5 +1,13 @@
-text, x, counter,new_row_x
-"this is a, a test A", aa, 2,No implememntation. Subclasses should do something
-"this is a, a test B", bb, 3,No implememntation. Subclasses should do something
-"this is a, a test C", cc, 2,No implememntation. Subclasses should do something
-"this is a, a test D", dd, 3,No implememntation. Subclasses should do something
+text,number,watson-tone
+Be yourself; everyone else is already taken.,32,"DotMap(tone_name=u'Joy', score=0.797514, tone_id=u'joy')"
+Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.,2,"DotMap(tone_name=u'Joy', score=0.326118, tone_id=u'joy')"
+"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",2,"DotMap(tone_name=u'Joy', score=0.630465, tone_id=u'joy')"
+"So many books, so little time.",4,"DotMap(tone_name=u'Sadness', score=0.495493, tone_id=u'sadness')"
+"You've gotta dance like there's nobody watching,",3,"DotMap(tone_name=u'Joy', score=0.472546, tone_id=u'joy')"
+"You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth.",5,"DotMap(tone_name=u'Joy', score=0.59207, tone_id=u'joy')"
+A room without books is like a body without a soul.,4,"DotMap(tone_name=u'Joy', score=0.280082, tone_id=u'joy')"
+You know you're in love when you can't fall asleep because reality is finally better than your dreams.,6,"DotMap(tone_name=u'Joy', score=0.667903, tone_id=u'joy')"
+Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.,6,"DotMap(tone_name=u'Fear', score=0.452579, tone_id=u'fear')"

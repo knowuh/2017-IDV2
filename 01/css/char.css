@@ -22,6 +22,10 @@ div {
   border-radius: 0.25rem;
   margin: 8px;
 }
+.char {
+  width: 20px;
+  height: 20px;
+}
 #char {
   font-weight: bold;
   font-size: 120pt;

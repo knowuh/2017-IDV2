@@ -3,7 +3,7 @@
 ## Review people cards
 
 ## Class 4 of 14
-Three more classes until midterm proposals due.
+Four more classes until midterm proposals due.
  
 
 ## First draft of briefs:

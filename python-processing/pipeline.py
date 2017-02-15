@@ -1,18 +1,7 @@
 from collections import OrderedDict
 import csv
-
-class TextProcessor(object):
-
-    def __init__(self, _name):
-        self.name = _name
-
-    def do_processing(self, text):
-        result = "No implememntation. Subclasses should do something"
-        return result
-
-    def process(self, text, row):
-        result = self.do_processing(text)
-        row[self.name]= result
+from processors.base import BaseProcessor
+from processors.watson_tone import WatsonTone
 
 
 class Pipeline(object):
@@ -50,7 +39,7 @@ class Pipeline(object):
 
 if __name__ == "__main__":
     p = Pipeline('test.csv', 'text')
-    p.add_processor(TextProcessor("new_row_x"))
+    p.add_processor(WatsonTone())
     p.process();
 
 

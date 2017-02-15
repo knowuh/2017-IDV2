@@ -2,7 +2,7 @@
 
 
 ## Class 5 of 14
-Two more classes until midterm proposals due.
+Three more classes until midterm proposals due.
  
 
 ### Comments about process.

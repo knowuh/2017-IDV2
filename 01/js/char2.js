@@ -14,7 +14,7 @@ function initChars() {
 }
 
 function update() {
-  var index = Math.round(Math.random() * $chars.length);
+  var index = Math.round(Math.random() * ($chars.length-1));
   var $char = $chars[index];
   var max = 18000;
   var value = Math.round(Math.random() * max) + 32;
@@ -23,4 +23,4 @@ function update() {
 }
 initChars();
 update();
-setInterval(update,120);
+setInterval(update,50);

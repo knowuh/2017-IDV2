@@ -41,7 +41,7 @@ Students are expected to attend all classes. Absence for health or personal reas
 * [`01-31 – 04`](./04/) : Proposal sketches due
 * [`02-07 – 05`](./05/) : Second proposal briefs due
 * [`02-14 - 06`](./06/) : Work / Checklist
-* `02-21 – 07` : Work
+* [`02-21 – 07`](./07/) : Work
 * `02-28 – 08` : Midterm posters
 * `03-14 – 09` : Work / TBD
 * `03-21 – 10` : Work / TBD

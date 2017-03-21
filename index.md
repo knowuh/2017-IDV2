@@ -43,9 +43,9 @@ Students are expected to attend all classes. Absence for health or personal reas
 * [`02-14 - 06`](./06/) : Work / Checklist
 * [`02-21 – 07`](./07/) : Work
 * `02-28 – 08` : Midterm posters
-* `03-14 – 09` : Work / TBD
-* `03-21 – 10` : Work / TBD
-* `03-28 – 11` : Work / TBD
+* `03-14 – 09` : Class Canceled
+* [`03-21 – 10`](./10) : Data sets due
+* `03-28 – 11` : Vertical slices due
 * `04-04 – 12` : Work / TBD
 * `04-11 – 13` : Work / TBD
 * `04-18 – 14` Final Presentations

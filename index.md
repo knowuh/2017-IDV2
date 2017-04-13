@@ -40,13 +40,14 @@ Students are expected to attend all classes. Absence for health or personal reas
 * [`01-24 – 03`](./03/) : Historic text visualization approaches
 * [`01-31 – 04`](./04/) : Proposal sketches due
 * [`02-07 – 05`](./05/) : Second proposal briefs due
-* [`02-14 - 06`](./06/) : Work / Checklist
+* [`02-14 - 06`](./06/) : Work
 * [`02-21 – 07`](./07/) : Work
 * `02-28 – 08` : Midterm posters
 * `03-14 – 09` : Class Canceled
 * [`03-21 – 10`](./10) : Data sets due
-* `03-28 – 11` : Vertical slices due
-* `04-04 – 12` : Work / TBD
-* `04-11 – 13` : Work / TBD
-* `04-18 – 14` Final Presentations
+* [`03-28 – 11`](./11) : Vertical slices due
+* [`04-04 – 12`](./12) : Updates.
+* [`04-11 – 13`](./13) : Skeletons due.
+* `04-18 – 14` : Final work day.
+* `04-25 – 15` : Final Presentations
 

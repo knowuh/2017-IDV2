@@ -1,0 +1,11 @@
+body {
+    font-family: 'Raleway', Helvetica, "Helvetica Neue", sans-serif;
+    background-color: hsla(0,0%,90%,1);
+    color: hsla(0, 10%, 15%, 1);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: 1em;
+}

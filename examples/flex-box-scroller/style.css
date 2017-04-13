@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif, 'Helvetica'
+}
+.scroll-container {
+  overflow: hidden;
+  width: 300px;
+  background-color: gray;
+}
+a {
+  margin: 2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: goldenrod;
+  display: inline-block;
+}
+
+.flex-container {
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  transition: 0.5s;
+}
+
+.flex-item {
+  width: 300px;
+  height: 100px;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background-color: goldenrod;
+  border-radius: 1em;
+}

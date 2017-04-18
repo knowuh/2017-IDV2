@@ -9,3 +9,12 @@ body {
     justify-content: center;
     margin: 1em;
 }
+#link {
+    position: fixed;
+    top: 1em;
+    right: 4em;
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 0.25em;
+    box-shadow: 1px 1px 4px hsal(0, 0%, 40%, 0.8);
+}
